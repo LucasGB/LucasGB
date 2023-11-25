@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello there, I am [Lucas](https://github.com/LucasGB) 👨‍💻
+### ![a](https://media1.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47ooij5ulncxnv2povv7tl469fmd9jiyk6caqt43fc&ep=v1_gifs_related&rid=giphy.gif&ct=g), I am [Lucas](https://github.com/LucasGB) 👨‍💻
 
 ![version :25.11.2023](https://img.shields.io/badge/version-14.07.2022-informational) &nbsp;
 <!-- ![views](https://komarev.com/ghpvc/?username=LucasGB&style=flat-square&label=views) -->
